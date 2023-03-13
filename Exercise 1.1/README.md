@@ -1,3 +1,11 @@
+# Python Cheat Sheet
+
+Create a new Virtual Environment - $ mkvirtualenv nameofnewenvironment
+
+Activate Virtual Environment - Navigate to virtual environment path (Users/faratim/.virtualenvs/environment name/bin), then type 'source activate' in terminal without the quotes. The current path I'm working with is Users/faratim/.virtualenvs/cf-python-base/bin.
+
+Initiate iPython Shell = While in Virtual Env path, type 'iPython'
+
 # Exercise 1.1
 
 In this exercise, I learned how to install Python, set up a Python environment, write and run a Python script using a code editor and a terminal, run commands on an interactive Python shell, and install new packages using pip.
